@@ -1,0 +1,1 @@
+print("Selamat pagi, Muhammad Nafis Putra\n Selamat siang, Muhammad Nafis Putra\n Selamat malam, Muhammad Nafis Putra")
